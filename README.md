@@ -8,9 +8,5 @@
 - [hpprint](https://github.com/haxscramper/hpprint) Generic configurable pretty-printer with partial auto-layout. Correctly handles unicode text and ANSI escape codes in text. 
 - [ngspice](https://github.com/haxscramper/ngspice) Analog circuit simulation library; wrapper for ngspice 
 - [hdrawing](https://github.com/haxscramper/hdrawing) Helper for pretty-printing things in terminal. Draw grids, boxes, easily concatenate string blocks. Correctly handles unicode and ANSI escape codes. 
-
-
-<!--
 - [hnimast](https://github.com/haxscramper/hnimast) User-friendly wrapper for nim ast
 - [hcparse](https://github.com/haxscramper/hcparse) High-level nim bindings for parsing C/C++ code 
--->
