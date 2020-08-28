@@ -9,4 +9,4 @@
 - [ngspice](https://github.com/haxscramper/ngspice) Analog circuit simulation library; wrapper for ngspice [documentation](https://haxscramper.github.io/ngspice-doc/src/ngspice.html)
 - [hdrawing](https://github.com/haxscramper/hdrawing) Helper for pretty-printing things in terminal. Draw grids, boxes, easily concatenate string blocks. Correctly handles unicode and ANSI escape codes. [documentation](https://haxscramper.github.io/hdrawing-doc/src/hdrawing.html)
 - [hnimast](https://github.com/haxscramper/hnimast) User-friendly wrapper for nim ast [documentation](https://haxscramper.github.io/hnimast-doc/src/hnimast.html)
-- [hcparse](https://github.com/haxscramper/hcparse) High-level nim bindings for parsing C/C++ code. [documentation](https://haxscramper.github.io/hcparse-doc/src/hcparse/libclang_raw/index.html)
+- [hcparse](https://github.com/haxscramper/hcparse) High-level nim bindings for parsing C/C++ code. [documentation](https://haxscramper.github.io/hcparse-doc/src/hcparse/libclang.html)
