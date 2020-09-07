@@ -2,16 +2,26 @@
 
 ## Utility
 
-- [**`HMISC`**](https://github.com/haxscramper/hmisc) Collection of miscellaneous helper algorithms and types. Helper functions for strings, exceptions etc. [documentation](https://haxscramper.github.io/hmisc-doc/src/hmisc.html)
-- [**`HPPRINT`**](https://github.com/haxscramper/hpprint) Generic configurable pretty-printer with partial auto-layout. Correctly handles unicode text and ANSI escape codes in text. [documentation](https://haxscramper.github.io/hpprint-doc/src/hpprint.html)
-- [**`HNIMAST`**](https://github.com/haxscramper/hnimast) User-friendly wrapper for nim ast [documentation](https://haxscramper.github.io/hnimast-doc/src/hnimast.html)
+- [**`HMISC`**](https://github.com/haxscramper/hmisc) Collection of miscellaneous helper algorithms and types. Helper functions for strings, exceptions etc. 
+    - [documentation](https://haxscramper.github.io/hmisc-doc/src/hmisc.html)
+    - [![Build Status](https://travis-ci.com/haxscramper/hmisc.svg?branch=master)](https://travis-ci.com/haxscramper/hmisc)
+- [**`HPPRINT`**](https://github.com/haxscramper/hpprint) Generic configurable pretty-printer with partial auto-layout. Correctly handles unicode text and ANSI escape codes in text. 
+    - [documentation](https://haxscramper.github.io/hpprint-doc/src/hpprint.html)
+    - [![Build Status](https://travis-ci.com/haxscramper/hpprint.svg?branch=master)](https://travis-ci.com/haxscramper/hpprint)
+- [**`HNIMAST`**](https://github.com/haxscramper/hnimast) User-friendly wrapper for nim ast 
+    - [documentation](https://haxscramper.github.io/hnimast-doc/src/hnimast.html)
+    - [![Build Status](https://travis-ci.com/haxscramper/hnimast.svg?branch=master)](https://travis-ci.com/haxscramper/hnimast)
 - [**`HASTS`**](https://github.com/haxscramper/hasts) Statically typed wrappers for various markup lanuages - grapvhiz, svg, openscad, latex & more. [documentation](https://haxscramper.github.io/hasts-doc/src/hasts/graphviz_ast.html)
 
 ##  Semi-experimental
 
 - [**`NIMTRAITS`**](https://github.com/haxscramper/nimtraits) Automatic trait implementation for nim types. [documentation](https://haxscramper.github.io/nimtraits-doc/src/nimtraits.html)
-- [**`NIMTRS`**](https://github.com/haxscramper/nimtrs) Ast pattern matching, templating and rewriting. Supports regex-like patterns for sequences. [documentation](https://haxscramper.github.io/nimtrs-doc/src/nimtrs/trscore.html)
-- [**`HPARSE`**](https://github.com/haxscramper/hparse)  Collection of parser utilities for nim - compile/runtime parser generator. [documentation](https://haxscramper.github.io/hparse-doc/src/hparse.html)
+- [**`NIMTRS`**](https://github.com/haxscramper/nimtrs) Ast pattern matching, templating and rewriting. Supports regex-like patterns for sequences. 
+    - [documentation](https://haxscramper.github.io/nimtrs-doc/src/nimtrs/trscore.html)
+    - [![Build Status](https://travis-ci.com/haxscramper/nimtrs.svg?branch=master)](https://travis-ci.com/haxscramper/nimtrs)
+- [**`HPARSE`**](https://github.com/haxscramper/hparse)  Collection of parser utilities for nim - compile/runtime parser generator. 
+    - [documentation](https://haxscramper.github.io/hparse-doc/src/hparse.html)
+    - [![Build Status](https://travis-ci.com/haxscramper/hparse.svg?branch=master)](https://travis-ci.com/haxscramper/hparse)
 
 ## Wrappers
 
