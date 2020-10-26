@@ -4,14 +4,15 @@
 
 - [**`HMISC`**](https://github.com/haxscramper/hmisc) Collection of miscellaneous helper algorithms and types. Helper functions for strings, exceptions etc. 
     - [documentation](https://haxscramper.github.io/hmisc-doc/src/hmisc.html)
-    - [![Build Status](https://travis-ci.com/haxscramper/hmisc.svg?branch=master)](https://travis-ci.com/haxscramper/hmisc)
+    - ![Build](https://github.com/haxscramper/hmisc/workflows/Build/badge.svg)
 - [**`HPPRINT`**](https://github.com/haxscramper/hpprint) Generic configurable pretty-printer with partial auto-layout. Correctly handles unicode text and ANSI escape codes in text. 
     - [documentation](https://haxscramper.github.io/hpprint-doc/src/hpprint.html)
-    - [![Build Status](https://travis-ci.com/haxscramper/hpprint.svg?branch=master)](https://travis-ci.com/haxscramper/hpprint)
+    - ![Build](https://github.com/haxscramper/hpprint/workflows/Build/badge.svg)
 - [**`HNIMAST`**](https://github.com/haxscramper/hnimast) User-friendly wrapper for nim ast 
     - [documentation](https://haxscramper.github.io/hnimast-doc/src/hnimast.html)
-    - [![Build Status](https://travis-ci.com/haxscramper/hnimast.svg?branch=master)](https://travis-ci.com/haxscramper/hnimast)
+    - ![Build](https://github.com/haxscramper/hnimast/workflows/Build/badge.svg)
 - [**`HASTS`**](https://github.com/haxscramper/hasts) Statically typed wrappers for various markup lanuages - grapvhiz, svg, openscad, latex & more. [documentation](https://haxscramper.github.io/hasts-doc/src/hasts/graphviz_ast.html)
+    - ![Build](https://github.com/haxscramper/hasts/workflows/Build/badge.svg)
 
 ##  Semi-experimental
 
