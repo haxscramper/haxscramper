@@ -1,4 +1,11 @@
-# Nim packages
+
+# Nim
+
+## Useful gists
+
+Until I get proper static site generator running I just write things in github gists - hope some of them could be interesting for you
+
+- [languages-and-vms](https://gist.github.com/haxscramper/3562fa8fee4726d7a30a013a37977df6) - overview of all language-development-related things for nim
 
 ## Utility
 
