@@ -29,7 +29,7 @@ Until I get proper static site generator running I just write things in github g
     - [![Build Status](https://travis-ci.com/haxscramper/nimtrs.svg?branch=master)](https://travis-ci.com/haxscramper/nimtrs)
 - [**`HPARSE`**](https://github.com/haxscramper/hparse)  Collection of parser utilities for nim - compile/runtime parser generator. 
     - [documentation](https://haxscramper.github.io/hparse-doc/src/hparse.html)
-    - [![Build Status](https://travis-ci.com/haxscramper/hparse.svg?branch=master)](https://travis-ci.com/haxscramper/hparse)
+    - ![build](https://github.com/haxscramper/hparse/workflows/build/badge.svg)
 - [**`hax-nim`**](https://github.com/haxscramper/hax-nim) Various experiments and feature tests for nim-lang
 
 ## Wrappers
