@@ -36,8 +36,8 @@ Until I get proper static site generator running I just write things in github g
 
 - [**`NGSPICE`**](https://github.com/haxscramper/ngspice) Analog circuit simulation library; wrapper for ngspice [documentation](https://haxscramper.github.io/ngspice-doc/src/ngspice.html)
 - [**`HCPARSE`**](https://github.com/haxscramper/hcparse) High-level nim bindings for parsing C/C++ code. [documentation](https://haxscramper.github.io/hcparse-doc/src/hcparse/libclang.html)
-- [**`NIMSPELL`**](https://github.com/haxscramper/nimspell) Spellchecking for nim. Currently uses hunspell, other wrappers might be added in the future. ![build](https://github.com/haxscramper/nimspell/workflows/build/badge.svg)
-- [**`HTSPARSE`**](https://github.com/haxscramper/htsparse) Compiled and wrapped tree-sitter grammars for nim. ![build](https://github.com/haxscramper/htsparse/workflows/build/badge.svg)
+- [**`NIMSPELL`**](https://github.com/haxscramper/nimspell) Spellchecking for nim. Currently uses hunspell, other wrappers might be added in the future. ![build](https://github.com/haxscramper/nimspell/workflows/build/badge.svg) *work in progress*
+- [**`HTSPARSE`**](https://github.com/haxscramper/htsparse) Compiled and wrapped tree-sitter grammars for nim. ![build](https://github.com/haxscramper/htsparse/workflows/build/badge.svg). *work in progress*
 
 ## Other
 
