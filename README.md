@@ -10,13 +10,15 @@ Until I get proper static site generator running I just write things in github g
 ## Tooling
 
 - [**`HAXDOC`**](https://github.com/haxscramper/haxdoc) Documentation generator for nim. *work in progress*, **very experimental**.
+- [**`HAXORG`**](https://github.com/haxscramper/haxorg) Org-mode parser, compiler & exporter
 
 ## Utility
 
 - [**`HMISC`**](https://github.com/haxscramper/hmisc) Collection of miscellaneous helper algorithms and types. Helper functions for strings, exceptions etc. 
     - [documentation](https://haxscramper.github.io/hmisc-doc/src/hmisc.html)
     - ![Build](https://github.com/haxscramper/hmisc/workflows/Build/badge.svg)
-- [**`HPPRINT`**](https://github.com/haxscramper/hpprint) Generic configurable pretty-printer with partial auto-layout. Correctly handles unicode text and ANSI escape codes in text. 
+
+- [**`HPPRINT`**](https://github.com/haxscramper/hpprint) Generic configurable pretty-printer with partial auto-layout. Correctly handles unicode text and ANSI escape codes in text.
     - [documentation](https://haxscramper.github.io/hpprint-doc/src/hpprint.html)
     - ![Build](https://github.com/haxscramper/hpprint/workflows/Build/badge.svg)
 - [**`HNIMAST`**](https://github.com/haxscramper/hnimast) User-friendly wrapper for nim ast 
