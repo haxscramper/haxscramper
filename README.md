@@ -7,6 +7,10 @@ Until I get proper static site generator running I just write things in github g
 
 - [languages-and-vms](https://gist.github.com/haxscramper/3562fa8fee4726d7a30a013a37977df6) - overview of all language-development-related things for nim
 
+## Tooling
+
+- [**`HAXDOC`**](https://github.com/haxscramper/haxdoc) Documentation generator for nim. *work in progress*, **very experimental**.
+
 ## Utility
 
 - [**`HMISC`**](https://github.com/haxscramper/hmisc) Collection of miscellaneous helper algorithms and types. Helper functions for strings, exceptions etc. 
