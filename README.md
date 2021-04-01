@@ -16,7 +16,7 @@ Until I get proper static site generator running I just write things in github g
 
 - [**`HMISC`**](https://github.com/haxscramper/hmisc) Collection of miscellaneous helper algorithms and types. Helper functions for strings, exceptions etc. 
     - [documentation](https://haxscramper.github.io/hmisc-doc/src/hmisc.html)
-    - ![Build](https://github.com/haxscramper/hmisc/workflows/Build/badge.svg)
+    - [![build](https://github.com/haxscramper/hmisc/actions/workflows/ci.yml/badge.svg)](https://github.com/haxscramper/hmisc/actions/workflows/ci.yml)
 
 - [**`HPPRINT`**](https://github.com/haxscramper/hpprint) Generic configurable pretty-printer with partial auto-layout. Correctly handles unicode text and ANSI escape codes in text.
     - [documentation](https://haxscramper.github.io/hpprint-doc/src/hpprint.html)
