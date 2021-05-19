@@ -10,7 +10,7 @@ Until I get proper static site generator running I just write things in github g
 ## Tooling
 
 - [**`HAXDOC`**](https://github.com/haxscramper/haxdoc) Documentation generator for nim. *work in progress*, **very experimental**.
-- [**`HAXORG`**](https://github.com/haxscramper/haxorg) Org-mode parser, compiler & exporter. *work in progress*, **very experimental**.
+- [**`HAXORG`**](https://github.com/haxscramper/haxorg) Org-mode parser, compiler & exporter. *work in progress*, **very experimental**, [![test](https://github.com/haxscramper/haxdoc/actions/workflows/test.yaml/badge.svg)](https://github.com/haxscramper/haxdoc/actions/workflows/test.yaml)
 
 ## Utility
 
