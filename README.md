@@ -26,9 +26,9 @@ Until I get proper static site generator running I just write things in github g
 ##  Semi-experimental
 
 - [**`NIMTRAITS`**](https://github.com/haxscramper/nimtraits) Automatic trait implementation for nim types. [documentation](https://haxscramper.github.io/nimtraits-doc/src/nimtraits.html)
-- [**`NIMTRS`**](https://github.com/haxscramper/nimtrs) Ast pattern matching, templating and rewriting. Supports regex-like patterns for sequences. 
+<!-- - [**`NIMTRS`**](https://github.com/haxscramper/nimtrs) Ast pattern matching, templating and rewriting. Supports regex-like patterns for sequences. 
     - [documentation](https://haxscramper.github.io/nimtrs-doc/src/nimtrs/trscore.html)
-    - ![build](https://github.com/haxscramper/nimtrs/workflows/build/badge.svg)
+    - ![build](https://github.com/haxscramper/nimtrs/workflows/build/badge.svg) -->
 - [**`HPARSE`**](https://github.com/haxscramper/hparse)  Collection of parser utilities for nim - compile/runtime parser generator. 
     - [documentation](https://haxscramper.github.io/hparse-doc/src/hparse.html)
     - ![build](https://github.com/haxscramper/hparse/workflows/build/badge.svg)
