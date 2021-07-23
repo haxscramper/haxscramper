@@ -23,7 +23,7 @@ Until I get proper static site generator running I just write things in github g
 - [**`HASTS`**](https://github.com/haxscramper/hasts) Statically typed wrappers for various markup lanuages - grapvhiz, svg, openscad, latex & more. [documentation](https://haxscramper.github.io/hasts-doc/src/hasts/graphviz_ast.html)
     - ![Build](https://github.com/haxscramper/hasts/workflows/Build/badge.svg)
 
-##  Semi-experimental
+##  Semi-experimental & experimental
 
 - [**`NIMTRAITS`**](https://github.com/haxscramper/nimtraits) Automatic trait implementation for nim types. [documentation](https://haxscramper.github.io/nimtraits-doc/src/nimtraits.html)
 <!-- - [**`NIMTRS`**](https://github.com/haxscramper/nimtrs) Ast pattern matching, templating and rewriting. Supports regex-like patterns for sequences. 
@@ -33,6 +33,7 @@ Until I get proper static site generator running I just write things in github g
     - [documentation](https://haxscramper.github.io/hparse-doc/src/hparse.html)
     - ![build](https://github.com/haxscramper/hparse/workflows/build/badge.svg)
 - [**`hax-nim`**](https://github.com/haxscramper/hax-nim) Various experiments and feature tests for nim-lang
+- [**`hack`**](https://github.com/haxscramper/hack) Code experiments in various programming languages, mostly nim. I also add code examples I made for various questions/examples.
 
 ## Wrappers
 
@@ -42,8 +43,4 @@ Until I get proper static site generator running I just write things in github g
 - [**`HTSPARSE`**](https://github.com/haxscramper/htsparse) Compiled and wrapped tree-sitter grammars for nim. ![build](https://github.com/haxscramper/htsparse/workflows/build/badge.svg).
 - [**`NIMTRAIL`**](https://github.com/haxscramper/nimtrail)  Nim wrapper for sourcetrail code explorer. *work in progress*
 - [**`CXXSTD`**](https://github.com/haxscramper/cxxstd) Nim wrapped for C++ standard library. *work in progress*.
-
-## Other
-
-- [**`HDRAWING`**](https://github.com/haxscramper/hdrawing) Helper for pretty-printing things in terminal. Draw grids, boxes, easily concatenate string blocks. Correctly handles unicode and ANSI escape codes. [documentation](https://haxscramper.github.io/hdrawing-doc/src/hdrawing.html)
 
