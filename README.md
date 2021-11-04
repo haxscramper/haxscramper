@@ -29,20 +29,13 @@ Until I get proper static site generator running I just write things in github g
 
 ##  Semi-experimental & experimental
 
-- [**`NIMTRAITS`**](https://github.com/haxscramper/nimtraits) Automatic trait implementation for nim types. [documentation](https://haxscramper.github.io/nimtraits-doc/src/nimtraits.html)
-<!-- - [**`NIMTRS`**](https://github.com/haxscramper/nimtrs) Ast pattern matching, templating and rewriting. Supports regex-like patterns for sequences. 
-    - [documentation](https://haxscramper.github.io/nimtrs-doc/src/nimtrs/trscore.html)
-    - ![build](https://github.com/haxscramper/nimtrs/workflows/build/badge.svg) -->
 - [**`hack`**](https://github.com/haxscramper/hack) ![GitHub last commit](https://img.shields.io/github/last-commit/haxscramper/hack) Code experiments in various programming languages, mostly nim. I also add code examples I made for various questions/examples.
 
 ## Wrappers
 
-- [**`NGSPICE`**](https://github.com/haxscramper/ngspice) Analog circuit simulation library; wrapper for ngspice [documentation](https://haxscramper.github.io/ngspice-doc/src/ngspice.html)
 - [**`HCPARSE`**](https://github.com/haxscramper/hcparse) High-level nim bindings for parsing C/C++ code. 
   - [documentation](https://haxscramper.github.io/hcparse-doc/src/hcparse/libclang.html)
   - ![GitHub last commit](https://img.shields.io/github/last-commit/haxscramper/hcparse)
-- [**`NIMSPELL`**](https://github.com/haxscramper/nimspell) Spellchecking for nim. Currently uses hunspell, other wrappers might be added in the future. 
-  - ![build](https://github.com/haxscramper/nimspell/workflows/build/badge.svg) *work in progress*
 - [**`HTSPARSE`**](https://github.com/haxscramper/htsparse) Compiled and wrapped tree-sitter grammars for nim. 
   - ![build](https://github.com/haxscramper/htsparse/workflows/build/badge.svg).
   - ![GitHub last commit](https://img.shields.io/github/last-commit/haxscramper/htsparse)
