@@ -1,4 +1,5 @@
 
+
 # Nim
 
 ## Useful gists
@@ -21,11 +22,6 @@ Until I get proper static site generator running I just write things in github g
     - [documentation](https://haxscramper.github.io/hmisc-doc/src/hmisc.html)
     - [![test](https://github.com/haxscramper/hmisc/actions/workflows/test.yaml/badge.svg)](https://github.com/haxscramper/hmisc/actions/workflows/test.yaml)
     - ![GitHub last commit](https://img.shields.io/github/last-commit/haxscramper/hnimast)
-- [**`HNIMAST`**](https://github.com/haxscramper/hnimast) User-friendly wrapper for nim ast 
-    - [documentation](https://haxscramper.github.io/hnimast-doc/src/hnimast.html)
-    - ![Build](https://github.com/haxscramper/hnimast/workflows/Build/badge.svg)
-    - ![GitHub last commit](https://img.shields.io/github/last-commit/haxscramper/hnimast)
-
 
 ##  Semi-experimental & experimental
 
