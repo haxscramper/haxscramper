@@ -2,7 +2,7 @@
 
 # Nim
 
-Currently working on https://github.com/nim-works/nimskull ![GitHub last commit](https://img.shields.io/github/last-commit/nim-works/nimskull), other projects are on hiatus.
+Currently on hiatus, other projects' development is paused. 
 
 | project                                                   | Commit status                                                                         | description                                              |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------- |
