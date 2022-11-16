@@ -1,9 +1,5 @@
 
 
-# Nim
-
-Currently on hiatus, other projects' development is paused. 
-
 | project                                                   | Commit status                                                                         | description                                              |
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | [**`nimskull`**](https://github.com/nim-works/nimskull)   | ![GitHub last commit](https://img.shields.io/github/last-commit/nim-works/nimskull)   | Nim fork |
